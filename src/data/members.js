@@ -3,7 +3,7 @@ const base = import.meta.env.BASE_URL || '/'
 export const members = [
   {
     id: 1,
-    name: 'Aether',
+    name: 'Zidan',
     role: 'Frontend Developer',
     image: `${base}members/member1.jpeg`,
     description: 'Membangun UI retro modern dengan pengalaman visual futuristik.',
@@ -16,7 +16,7 @@ export const members = [
   },
   {
     id: 2,
-    name: 'Nova',
+    name: 'Tegar',
     role: 'UI/UX Designer',
     image: `${base}members/member2.jpeg`,
     description: 'Merancang interface neon synthwave yang immersive.',
@@ -29,7 +29,7 @@ export const members = [
   },
   {
     id: 3,
-    name: 'Zenith',
+    name: 'Nizar',
     role: 'Backend Developer',
     image: `${base}members/member3.jpeg`,
     description: 'Membangun sistem backend scalable dan modern.',
@@ -42,7 +42,7 @@ export const members = [
   },
   {
     id: 4,
-    name: 'Luna',
+    name: 'Hamid',
     role: 'Creative Director',
     image: `${base}members/member4.jpeg`,
     description: 'Menggabungkan visual nostalgia dan kreativitas futuristik.',
